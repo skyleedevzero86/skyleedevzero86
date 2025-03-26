@@ -62,7 +62,7 @@
 
 ## 🌟 GitHub Stats 🌟
 <div align="center">
-   <img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=LeeKyeongYong&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="LeeKyeongYong's GitHub stats"/>
+   <img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeKyeongYong)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskyleedevzero86)](https://hits.seeyoufarm.com) 
 
 </div>
  

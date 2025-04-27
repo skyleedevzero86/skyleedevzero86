@@ -62,7 +62,7 @@
 
 ## 🌟 GitHub Stats 🌟
 <div align="center">
-   <img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/>
+   <img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
 ---
@@ -79,8 +79,6 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskyleedevzero86)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.sh/github.com/skyleedevzero86.svg?style=flat-square&color=365f26&labelColor=612828)](https://hits.sh/github.com/skyleedevzero86/)
 
 </div>
- 
-

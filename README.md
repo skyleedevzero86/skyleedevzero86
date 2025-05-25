@@ -1,6 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=KyeongYongLee&fontSize=90)
+
   
 </div>
 
@@ -62,7 +63,9 @@
 
 ## 🌟 GitHub Stats 🌟
 <div align="center">
-   <img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
+  <br/><img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/>
+  <br/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
 ---

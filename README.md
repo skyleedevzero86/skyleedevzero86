@@ -7,7 +7,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/DIYgod/DIYgod/main/assets/github-contribution-grid-snake.svg)
 
-# 같이의 가치를 믿는 백엔드 개발자, 궁금하면500원 입니다.
+# 같이의 가치를 믿는 백엔드 개발자, Leeky 입니다.
 
 사람들과 소통하며 경험을 회고하고, 이를 통해 꾸준히 성장하는 개발자입니다. 🛠️
 

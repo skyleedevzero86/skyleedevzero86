@@ -61,12 +61,11 @@
 
 ---
 
-## 🌟 GitHub Stats 🌟
-<div align="center">
-  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
-  <br/><img style="max-width: 450px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide_rank=true" alt="skyleedevzero86's GitHub stats"/>
-  <br/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div>
+
+## 📈 Activity Graph
+[![Sohee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyleedevzero86&theme=react-dark)](https://github.com/skyleedevzero86/github-readme-activity-graph)
+
+
 
 ---
 

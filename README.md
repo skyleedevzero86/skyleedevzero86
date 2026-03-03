@@ -41,13 +41,14 @@
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
    <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-6DB33F?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### Security
 <p align="center">
    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white"/>
-   <img src="https://img.shields.io/badge/OAuth2-3A9AB6?style=flat-square&logo=OAuth&logoColor=white"/>
+   <img src="https://img.shields.io/badge/OAuth2-336791?style=flat-square&logo=OAuth&logoColor=white"/>
 </p>
 
 ---

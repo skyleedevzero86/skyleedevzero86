@@ -57,6 +57,7 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
    <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Eclipse-F80000?style=flat-square&logo=Eclipse&logoColor=white"/>
 </p>
 
 ---

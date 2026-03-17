@@ -65,6 +65,8 @@
 
 
 ## 📈 Activity Graph
+<div align="center">
+
 [![Sohee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skyleedevzero86&theme=react-dark)](https://github.com/skyleedevzero86/github-readme-activity-graph)
 
 <br/>
@@ -80,6 +82,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyleedevzero86&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 
 ---
 

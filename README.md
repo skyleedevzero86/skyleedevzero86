@@ -69,9 +69,17 @@
 
 <br/>
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=skyleedevzero86&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<br/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=skyleedevzero86&show_icons=true&count_private=true&hide_border=true)
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyleedevzero86&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyleedevzero86&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
@@ -103,3 +111,5 @@
 [![Hits](https://hits.sh/github.com/skyleedevzero86.svg?style=flat-square&color=365f26&labelColor=612828)](https://hits.sh/github.com/skyleedevzero86/)
 
 </div>
+
+---

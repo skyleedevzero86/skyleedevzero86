@@ -23,6 +23,8 @@
 
 ## Backend & Full-stack
 
+<div align="center">
+
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fskyleedevzero86?color=blue&label=Hits&size=small)](https://myhits.vercel.app)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sleekydevzero86/posts)
 
@@ -34,6 +36,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
+</div>
 
 ---
 
